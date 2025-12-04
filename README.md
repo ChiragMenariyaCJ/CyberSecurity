@@ -1,6 +1,7 @@
 # CyberSecurity Learning Series — For Everyone  
 📚 By **Chirag Menariya**  
 🔗 GitHub: [ChiragMenariyaCJ](https://github.com/ChiragMenariyaCJ)
+🔗 LinkedIn: [Chirag Menariya](https://www.linkedin.com/in/chirag-menariya-544bb2192/)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Open To All](https://img.shields.io/badge/Level-All%20Learners-green)
