@@ -95,5 +95,4 @@ If this helps you, consider:
 MSc Cybersecurity  
 GitHub: [ChiragMenariyaCJ](https://github.com/ChiragMenariyaCJ)
 
-> _"Cybersecurity is not just technology — it's mindset, discipline, and continuous learning."_ 
-> _"Cybersecurity knowledge grows when shared — not restricted."_  
+> _"Cybersecurity is a discipline of mindset and continuous learning — and it becomes stronger when shared, not controlled."_ 
