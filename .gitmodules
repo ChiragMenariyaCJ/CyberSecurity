@@ -1,0 +1,3 @@
+[submodule "Certification Roadmap/SecCertRoadmap"]
+	path = Certification Roadmap/SecCertRoadmap
+	url = https://github.com/PaulJerimy/SecCertRoadmapHTML.git
