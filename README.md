@@ -57,6 +57,19 @@ Some of the areas covered (continuously expanding):
 
 ---
 
+## 📂 Cheat Sheets
+
+This repository includes a dedicated folder [`CheatSheets`](./CheatSheets) containing PDF and image cheat sheets for various cybersecurity topics.
+
+**How to use:**
+- Browse the folder freely for PDFs or images.  
+- Download for personal study or reference.  
+- Share responsibly with proper credit.  
+
+**License:** All cheat sheets follow the repository's main license (GNU GPLv3). See the root [LICENSE](./LICENSE) file for details.
+
+---
+
 ## 📜 License & Usage Rules
 
 This project is protected under **GNU GPLv3**.
