@@ -70,6 +70,13 @@ This repository includes a dedicated folder [`CheatSheets`](./CheatSheets) conta
 
 ---
 
+## 📂 Certification Roadmap
+
+View the interactive roadmap:  
+[Open Roadmap](Certification%20Roadmap/README.md)
+
+---
+
 ## 📜 License & Usage Rules
 
 This project is protected under **GNU GPLv3**.
